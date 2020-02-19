@@ -1,2 +1,2 @@
 # Facial-recognition
-Facial recognition using opencv eigenface algorithm in C++
+Facial recognition using opencv fisherface algorithm in C++
